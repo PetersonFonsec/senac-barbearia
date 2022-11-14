@@ -1,0 +1,23 @@
+{
+  "name": "senac_barbearia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PetersonFonsec/senac-barbearia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PetersonFonsec/senac-barbearia/issues"
+  },
+  "homepage": "https://github.com/PetersonFonsec/senac-barbearia#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
